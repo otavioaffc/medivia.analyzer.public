@@ -1,0 +1,36 @@
+/* .App {
+    text-align: center;
+  }
+    
+.Img {
+    max-width:100%;
+    height:auto;
+    max-height:100%;
+    display: block; } */
+
+/* .Tasks {
+display: inline-flex;
+align-items: center;
+} */
+
+.CharData {
+  background: radial-gradient(circle, rgba(26,27,42,1) 23%, rgba(26,33,41,1) 69%, rgba(31,40,50,1) 97%);
+  /* padding: auto; */
+}
+
+a {
+  color: rgba(107, 107, 122, 0.603);
+  text-decoration: none; /* no underline */
+}
+
+hr {
+  max-width: 6rem;
+  border-width: 1px;
+  border-color:rgba(95, 95, 104, 0.397)
+}
+
+.hr1 {
+  max-width: 9rem;
+  border-width: 1px;
+  border-color:rgba(95, 95, 104, 0.397)
+}

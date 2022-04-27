@@ -1,0 +1,8 @@
+.form {
+    width: 700px;
+    background: radial-gradient(circle, rgba(26,27,42,1) 23%, rgba(26,33,41,1) 69%, rgba(31,40,50,1) 97%);
+}
+
+button {
+    background: radial-gradient(circle, rgba(26,27,42,1) 23%, rgba(26,33,41,1) 69%, rgba(31,40,50,1) 97%);
+  }
